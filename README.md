@@ -1,2 +1,2 @@
 # Data-Analysis
-This repository contains data analysis 
+The projects entails uncovering the most profitable application for the GooglePlaystore and Applestore markets.
